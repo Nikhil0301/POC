@@ -1,0 +1,8 @@
+target/
+**/src/main/**/target/
+**/src/test/**/target/
+
+# Ignore build output directories
+/build/
+/target/
+
